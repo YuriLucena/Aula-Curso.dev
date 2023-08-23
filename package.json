@@ -1,0 +1,24 @@
+{
+  "name": "aula-curso.dev",
+  "version": "1.0.0",
+  "description": "Projeto para seguir as aulas do Curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriLucena/Aula-Curso.dev.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuriLucena/Aula-Curso.dev/issues"
+  },
+  "homepage": "https://github.com/YuriLucena/Aula-Curso.dev#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
